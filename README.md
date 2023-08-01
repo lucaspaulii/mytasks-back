@@ -1,6 +1,6 @@
 # Task Handler
 
-API RESTful created using Java and Quarkus for a Technical Assignment.
+API RESTful created using Java and Quarkus.
 
 Using Hibernate/Panache to persist data (currently using H2 in memory to simplify the application use in this assignment)
 
